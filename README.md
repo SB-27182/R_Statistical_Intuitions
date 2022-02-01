@@ -33,4 +33,4 @@
   </kbd>
   </p>
   
-*Left: Confidence Intervals of 300 Monte-Carlo simulations using an alpha values of 0.05. Indeed, the confidence interval fails to capture the true parameter value 0.05% of the time, just as requested.* <br> *Right: From a single normaly distributed sample, 300 Monte-Carlo simulations sample from the parent sample to acquire a boot-strap distribution. The bootrsap sample are used to generate confidence intervals, none of which seem to fall out of the confidence interval for the original parent distribution.
+*Left: Confidence Intervals of 300 Monte-Carlo simulations using an alpha values of 0.05. Indeed, the confidence interval fails to capture the true parameter value 0.05% of the time, just as requested.* <br> *Right: From a single normaly distributed sample, 300 Monte-Carlo simulations sample from the parent sample to acquire a boot-strap distribution. The bootrsap sample are used to generate confidence intervals, none of which seem to fall out of the confidence interval for the original parent distribution.*
