@@ -33,4 +33,21 @@
   </kbd>
   </p>
   
-***Left:*** *Confidence Intervals of 300 Monte-Carlo simulations using an alpha values of 0.05. Indeed, the confidence interval fails to capture the true parameter value 0.05% of the time, just as requested.* <br> ***Right:*** *From a single normaly distributed sample, 300 Monte-Carlo simulations sample from the parent sample to acquire a boot-strap distribution. The bootrsap sample are used to generate confidence intervals, none of which seem to fall out of the confidence interval for the original parent distribution.*
+***Left:*** *Confidence Intervals of 100 Monte-Carlo simulations using an alpha values of 0.05. Indeed, the confidence interval fails to capture the true parameter value 0.05% of the time, just as requested.* <br> ***Right:*** *From a single normaly distributed sample, 300 Monte-Carlo simulations sample from the parent sample to acquire a boot-strap distribution. The bootrsap sample are used to generate confidence intervals, none of which seem to fall out of the confidence interval for the original parent distribution.*
+
+<br>
+<br>
+
+## (negative) Maximum Likelihood Estimation Visualization:
+<p align="center">
+  <kbd>
+  <img src="https://github.com/SB-27182/R_Statistical_Intuitions/blob/master/MLE_visualization_logVsExp/imgs/normLikelihoodExp.png" width=291 height=300/>
+  </kbd>
+  &nbsp
+    <kbd>
+  <img src="https://github.com/SB-27182/R_Statistical_Intuitions/blob/master/MLE_visualization_logVsExp/imgs/log_linear_weights.png" width=291 height=300/>
+  </kbd>
+  </p>
+  
+***Left:*** *The (negative) maximum likelihood function using a discrete sample. We may note that despite the fact that the sample impart discrete-ness, the function is continious. This is of-course because the observations in the sample are the parameters and the parameter values are the domain, whilst the codomain is the joint density of the observations* <br> ***Right:*** *Like the right but the joint density function is of it's monotonic logarithm. We can see why machine learning criterions that explicitly use a likelihood-function are more stable when using the log of the likelihood-function.*
+
