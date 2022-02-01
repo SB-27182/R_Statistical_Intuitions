@@ -8,7 +8,7 @@
   <img src="https://github.com/SB-27182/R_Statistical_Intuitions/blob/master/PowerAnalysis/imgs/rejectionPower_1000Samples.png" width=291 height=300/>
   </kbd>
   </p>
-*Top Left: 300 sample are generated from an actual and a (wrong) null-hypothesis density.*
+*Top Left: 300 sample are generated from an actual and a (wrong) null-hypothesis density.* <br>
 *Top Right: 1000 sample are generated from an actual and a (wrong) null-hypothesis density.*
 
 
