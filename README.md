@@ -15,7 +15,7 @@
   </kbd>
   </p>
   
-*Top Left: 300 sample are generated from an actual and a (wrong) null-hypothesis density.* <br> *Top Right: 1000 sample are generated from an actual and a (wrong) null-hypothesis density.* <br> *Bottom: A monte carlo simulation is performed wherein the sample cardinality is increased linearly from 0 to 600. We note the plateu in our capacity to reject the null after 200 observations in said sample.*
+***Top Left:*** *300 sample are generated from an actual and a (wrong) null-hypothesis density.* <br> *Top Right: 1000 sample are generated from an actual and a (wrong) null-hypothesis density.* <br> ***Bottom:*** *A monte carlo simulation is performed wherein the sample cardinality is increased linearly from 0 to 600. We note the plateu in our capacity to reject the null after 200 observations in said sample.*
 
 
 <br>
