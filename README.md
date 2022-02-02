@@ -1,4 +1,4 @@
-## [Power Analysis:](https://github.com/SB-27182/R_Statistical_Intuitions/blob/master/CIs_Normal_vs_bootStrap/bootCIs.R)
+## [Power Analysis:](https://github.com/SB-27182/R_Statistical_Intuitions/blob/master/PowerAnalysis/Power_function_ofSamples.R)
 <p align="center">
   <kbd>
   <img src="https://github.com/SB-27182/R_Statistical_Intuitions/blob/master/PowerAnalysis/imgs/rejectionPower_300Samples.png" width=291 height=300/>
@@ -22,7 +22,7 @@
 <br>
 
 
-## Boost-Strap and it's Confidence Intervals:
+## [Boost-Strap and it's Confidence Intervals:](https://github.com/SB-27182/R_Statistical_Intuitions/blob/master/CIs_Normal_vs_bootStrap/bootCIs.R)
 <p align="center">
   <kbd>
   <img src="https://github.com/SB-27182/R_Statistical_Intuitions/blob/master/CIs_Normal_vs_bootStrap/imgs/NormalConfidenceIntervals_alphaOf005.png" width=291 height=300/>
@@ -38,7 +38,7 @@
 <br>
 <br>
 
-## (negative) Maximum Likelihood Estimation Visualization:
+## [(negative) Maximum Likelihood Estimation Visualization:](https://github.com/SB-27182/R_Statistical_Intuitions/blob/master/MLE_visualization_logVsExp/normalLikelihood_expLikelihood.R)
 <p align="center">
   <kbd>
   <img src="https://github.com/SB-27182/R_Statistical_Intuitions/blob/master/MLE_visualization_logVsExp/imgs/normLikelihoodExp.png" width=291 height=300/>
