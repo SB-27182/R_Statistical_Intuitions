@@ -1,4 +1,4 @@
-## Power Analysis:
+## [Power Analysis:](https://github.com/SB-27182/R_Statistical_Intuitions/blob/master/CIs_Normal_vs_bootStrap/bootCIs.R)
 <p align="center">
   <kbd>
   <img src="https://github.com/SB-27182/R_Statistical_Intuitions/blob/master/PowerAnalysis/imgs/rejectionPower_300Samples.png" width=291 height=300/>
