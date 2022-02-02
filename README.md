@@ -22,7 +22,7 @@
 <br>
 
 
-## [Boost-Strap and it's Confidence Intervals:](https://github.com/SB-27182/R_Statistical_Intuitions/blob/master/CIs_Normal_vs_bootStrap/bootCIs.R)
+## [Boot-Strap and it's Confidence Intervals:](https://github.com/SB-27182/R_Statistical_Intuitions/blob/master/CIs_Normal_vs_bootStrap/bootCIs.R)
 <p align="center">
   <kbd>
   <img src="https://github.com/SB-27182/R_Statistical_Intuitions/blob/master/CIs_Normal_vs_bootStrap/imgs/NormalConfidenceIntervals_alphaOf005.png" width=291 height=300/>
