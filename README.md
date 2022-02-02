@@ -49,5 +49,5 @@
   </kbd>
   </p>
   
-***Left:*** *The (negative) maximum likelihood function using a discrete sample. We may note that despite the fact that the sample impart discrete-ness, the function is continious. This is of-course because the observations in the sample are the parameters and the parameter values are the domain, whilst the codomain is the joint density of the observations* <br><br> ***Right:*** *Like the left but the joint density function is of it's monotonic logarithm. We can see why machine learning criterions that explicitly use a likelihood-function are more stable when using the log of the likelihood-function.*
+***Left:*** *The (negative) maximum likelihood function using a discrete sample. We may note that despite the fact that the sample is discrete, the function is continious. This is of-course because the observations in the sample are the parameters and the parameter values are the domain, whilst the codomain is the joint density of the observations* <br><br> ***Right:*** *Like the left but the joint density function is of it's monotonic logarithm. We can see why machine learning criterions that explicitly use a likelihood-function are more stable when using the log of the likelihood-function.*
 
