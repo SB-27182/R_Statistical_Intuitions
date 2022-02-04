@@ -4,7 +4,7 @@ alpha = 0.05
 
 power_storage = c()
 
-p_reality = .72
+p_reality = 0.72
 p_null = 0.62
 
 for(n in 3:600){
