@@ -38,7 +38,7 @@
 <br>
 <br>
 
-## [(negative) Maximum Likelihood Estimation Visualization:](https://github.com/SB-27182/R_Statistical_Intuitions/blob/master/MLE_visualization_logVsExp/normalLikelihood_expLikelihood.R)
+## [(negative) MLE - Exponential vs Log Densities:](https://github.com/SB-27182/R_Statistical_Intuitions/blob/master/MLE_visualization_logVsExp/normalLikelihood_expLikelihood.R)
 <p align="center">
   <kbd>
   <img src="https://github.com/SB-27182/R_Statistical_Intuitions/blob/master/MLE_visualization_logVsExp/imgs/normLikelihoodExp.png" width=291 height=300/>
